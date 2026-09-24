@@ -7,7 +7,19 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="430,267,0,0" VerticalAlignment="Top"/>
+        <!-- <Button Content="Pitxa'm" Width="150" Height="50" FontSize="30"></Button> -->
+        <!-- <Button>
+            <Button.Width>150</Button.Width>
+            <Button.Height>50</Button.Height>
+            <Button.FontSize>15</Button.FontSize>
+            <Button.Content>
+                <WrapPanel>
+                    <TextBlock Foreground="Red">Hola</TextBlock>
+                    <TextBlock Foreground="Yellow">Adeu</TextBlock>
+                    <TextBlock Foreground="Green">Andreu</TextBlock>
 
+                </WrapPanel>
+            </Button.Content>
+        </Button> -->
     </Grid>
 </Window>

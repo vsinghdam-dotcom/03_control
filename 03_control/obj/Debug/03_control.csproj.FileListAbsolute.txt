@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\DAM2\Desenvolupament_Interficies\03_Control\03_control\03_control\bin\Debug\03_control.exe.config
+C:\Users\ADMIN\Documents\DAM2\Desenvolupament_Interficies\03_Control\03_control\03_control\bin\Debug\03_control.exe
+C:\Users\ADMIN\Documents\DAM2\Desenvolupament_Interficies\03_Control\03_control\03_control\bin\Debug\03_control.pdb
+C:\Users\ADMIN\Documents\DAM2\Desenvolupament_Interficies\03_Control\03_control\03_control\obj\Debug\03_control.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\DAM2\Desenvolupament_Interficies\03_Control\03_control\03_control\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Documents\DAM2\Desenvolupament_Interficies\03_Control\03_control\03_control\obj\Debug\App.g.cs
+C:\Users\ADMIN\Documents\DAM2\Desenvolupament_Interficies\03_Control\03_control\03_control\obj\Debug\03_control_MarkupCompile.cache
+C:\Users\ADMIN\Documents\DAM2\Desenvolupament_Interficies\03_Control\03_control\03_control\obj\Debug\03_control_MarkupCompile.lref
+C:\Users\ADMIN\Documents\DAM2\Desenvolupament_Interficies\03_Control\03_control\03_control\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Documents\DAM2\Desenvolupament_Interficies\03_Control\03_control\03_control\obj\Debug\03_control.g.resources
+C:\Users\ADMIN\Documents\DAM2\Desenvolupament_Interficies\03_Control\03_control\03_control\obj\Debug\_03_control.Properties.Resources.resources
+C:\Users\ADMIN\Documents\DAM2\Desenvolupament_Interficies\03_Control\03_control\03_control\obj\Debug\03_control.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\DAM2\Desenvolupament_Interficies\03_Control\03_control\03_control\obj\Debug\03_control.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\DAM2\Desenvolupament_Interficies\03_Control\03_control\03_control\obj\Debug\03_control.exe
+C:\Users\ADMIN\Documents\DAM2\Desenvolupament_Interficies\03_Control\03_control\03_control\obj\Debug\03_control.pdb
