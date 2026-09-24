@@ -41,7 +41,7 @@ namespace _03_control
 
             TextBlock txt3 = new TextBlock();
             txt3.Text = "Andreu";
-            txt2.Foreground = Brushes.Green;
+            txt3.Foreground = Brushes.Green;
             elMeuWrap.Children.Add(txt3);
 
 

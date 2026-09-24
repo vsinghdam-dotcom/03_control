@@ -14,6 +14,7 @@
             <Button.FontSize>15</Button.FontSize>
             <Button.Content>
                 <WrapPanel>
+        
                     <TextBlock Foreground="Red">Hola</TextBlock>
                     <TextBlock Foreground="Yellow">Adeu</TextBlock>
                     <TextBlock Foreground="Green">Andreu</TextBlock>
